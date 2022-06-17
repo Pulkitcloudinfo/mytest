@@ -1,2 +1,6 @@
 <h1>This is my new Page</h1>
+<<<<<<< HEAD
 <h2>This page is very important for me</h2>
+=======
+<h2>Important notes Page!</h2>
+>>>>>>> 867c68044cb02f50ef61f4ba444659bf21cb1f5b
