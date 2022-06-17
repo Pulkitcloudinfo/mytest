@@ -1,0 +1,2 @@
+<h1>Today is Friday</h1>
+<h2>Date:17-06-2022</h2>
