@@ -1,1 +1,2 @@
 <h1>This is my new Page</h1>
+<h2>Important notes Page!</h2>
