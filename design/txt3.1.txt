@@ -1,2 +1,6 @@
 <h1>My name is Pulkit Hasija. i live in Fbd</h1>
+<<<<<<< HEAD
 <h3>I live in Mohali Phase 11</h3>
+=======
+<h2>Now I live in mohali</h2>
+>>>>>>> 0a068b0b598572035350d1302d3e2f43cadf3552
